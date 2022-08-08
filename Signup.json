@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "vilychon",
+            "password": "AFa@#$123",
+            "Profile": {
+                "description": "hi m vilychon",
+                "D.O.B": "12.3.200",
+                "Gender": "female",
+                "Hobbies": "haha"
+            }
+        }
+    ]
+}
